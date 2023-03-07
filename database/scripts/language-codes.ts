@@ -1,4 +1,4 @@
-import fs from 'fs';
+const fs = require('fs');
 
 type CountriesData = {
   [key: string]: {
@@ -14,7 +14,7 @@ type CountriesData = {
 };
 
 const getCountriesData = () => {
-  const res = fs.readFileSync('backend/db/countries-data.json').toString();
+  const res = fs.readFileSync('data/countries-data.json').toString();
   return JSON.parse(res);
 }
 

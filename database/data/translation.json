@@ -1,0 +1,462 @@
+{
+  "ca": [
+    "Bon dia!",
+    "Bona tarda!",
+    "Bona nit!"
+  ],
+  "ar": [
+    "صباح الخير!",
+    "مساء الخير!",
+    "مساء الخير!"
+  ],
+  "ps": [
+    "سهار مو پخیر!",
+    "بعد له غرمه مو پخیر!",
+    "ماښام مو پخیر!"
+  ],
+  "fa": [
+    "صبح بخیر!",
+    "عصر بخیر!",
+    "عصر بخیر!"
+  ],
+  "tk": [
+    "Ertiriňiz haýyrly bolsun!",
+    "Günüňiz haýyrly bolsun!",
+    "Agşamyňyz haýyrly bolsun!"
+  ],
+  "en": [
+    "Good morning!",
+    "Good afternoon!",
+    "Good evening!"
+  ],
+  "sq": [
+    "Miremengjes!",
+    "Mirembrema!",
+    "Mirembrema!"
+  ],
+  "hy": [
+    "Բարի առավոտ!",
+    "Բարի օր!",
+    "Բարի երեկո!"
+  ],
+  "ru": [
+    "Доброе утро!",
+    "Добрый день!",
+    "Добрый вечер!"
+  ],
+  "pt": [
+    "Bom dia!",
+    "Boa tarde!",
+    "Boa noite!"
+  ],
+  "es": [
+    "¡Buen día!",
+    "¡Buenas tardes!",
+    "¡Buenas noches!"
+  ],
+  "gn": [
+    "Mba'éichapa ndepyhare!",
+    "Tandeka'aru porãite!",
+    "Mba'éichapa ndepyhare!"
+  ],
+  "sm": [
+    "Manuia le taeao!",
+    "Manuia le aoauli!",
+    "Manuia le afiafi!"
+  ],
+  "de": [
+    "Guten Morgen!",
+    "Guten Tag!",
+    "Guten Abend!"
+  ],
+  "nl": [
+    "Goedemorgen!",
+    "Goedemiddag!",
+    "Goedeavond!"
+  ],
+  "pa": [
+    "ਸ਼ੁਭ ਸਵੇਰ!",
+    "ਨਮਸਕਾਰ!",
+    "ਸਤ ਸ੍ਰੀ ਅਕਾਲ!"
+  ],
+  "sv": [
+    "God morgon!",
+    "God eftermiddag!",
+    "God kväll!"
+  ],
+  "az": [
+    "Sabahınız xeyir!",
+    "Günortanız Xeyir!",
+    "Axşamınız xeyir!"
+  ],
+  "bs": [
+    "Dobro jutro!",
+    "Dobar dan!",
+    "Dobro veče!"
+  ],
+  "hr": [
+    "Dobro jutro!",
+    "Dobar dan!",
+    "Dobra večer!"
+  ],
+  "bn": [
+    "সুপ্রভাত!",
+    "শুভ অপরাহ্ন!",
+    "শুভ সন্ধ্যা!"
+  ],
+  "fr": [
+    "Bonjour!",
+    "Bon après-midi!",
+    "Bonne soirée!"
+  ],
+  "bg": [
+    "Добро утро!",
+    "Добър ден!",
+    "Добър вечер!"
+  ],
+  "ms": [
+    "Selamat Pagi!",
+    "Selamat petang!",
+    "Selamat petang!"
+  ],
+  "ay": [
+    "Aski alwakipana!",
+    "Aski jayp'u!",
+    "Aski arumaki!"
+  ],
+  "qu": [
+    "Rimaykullayki!",
+    "Rimaykullayki!",
+    "Rimaykullayki!"
+  ],
+  "no": [
+    "God morgen!",
+    "God ettermiddag!",
+    "God kveld!"
+  ],
+  "nb": [
+    "God morgen!",
+    "God ettermiddag!",
+    "God kveld!"
+  ],
+  "be": [
+    "Добрай раніцы!",
+    "Добры дзень!",
+    "Добры вечар!"
+  ],
+  "ln": [
+    "Mbote!",
+    "Nsima ya nzanga malamu!",
+    "Mpokwa malamu!"
+  ],
+  "sw": [
+    "Habari za asubuhi!",
+    "Habari za mchana!",
+    "Habari za jioni!"
+  ],
+  "it": [
+    "Buongiorno!",
+    "Buon pomeriggio!",
+    "Buonasera!"
+  ],
+  "zh": [
+    "早上好！",
+    "下午好！",
+    "晚上好！"
+  ],
+  "el": [
+    "Καλημέρα!",
+    "Καλό απόγευμα!",
+    "Καλό απόγευμα!"
+  ],
+  "tr": [
+    "Günaydın!",
+    "Tünaydın!",
+    "İyi akşamlar!"
+  ],
+  "cs": [
+    "Dobré ráno!",
+    "Dobré odpoledne!",
+    "Dobrý večer!"
+  ],
+  "da": [
+    "God morgen!",
+    "God eftermiddag!",
+    "God aften!"
+  ],
+  "et": [
+    "Tere hommikust!",
+    "Tere päevast!",
+    "Tere õhtust!"
+  ],
+  "ti": [
+    "ከመይ ሓዲርኩም!",
+    "ከመይ ውዒሎም!",
+    "ከመይ ኣምሽዮም!"
+  ],
+  "eu": [
+    "Egun on!",
+    "Arratsalde on!",
+    "Arratsalde on!"
+  ],
+  "gl": [
+    "Bos días!",
+    "Boas tardes!",
+    "Boas tardes!"
+  ],
+  "am": [
+    "ምልካም እድል!",
+    "እንደምን አረፈድክ!",
+    "አንደምን አመሸህ!"
+  ],
+  "fi": [
+    "Hyvää huomenta!",
+    "Hyvää iltapäivää!",
+    "Hyvää iltaa!"
+  ],
+  "hi": [
+    "शुभ प्रभात!",
+    "नमस्कार!",
+    "नमस्ते!"
+  ],
+  "ur": [
+    "صبح بخیر!",
+    "شب بخیر!",
+    "شام بخیر!"
+  ],
+  "ka": [
+    "Დილა მშვიდობისა!",
+    "Საღამო მშვიდობისა!",
+    "Საღამო მშვიდობისა!"
+  ],
+  "ht": [
+    "Bonjou!",
+    "Bon apremidi!",
+    "Bonswa!"
+  ],
+  "hu": [
+    "Jó reggelt kívánok!",
+    "Jó napot!",
+    "Jó estét!"
+  ],
+  "id": [
+    "Selamat pagi!",
+    "Selamat siang!",
+    "Selamat malam!"
+  ],
+  "he": [
+    "בוקר טוב!",
+    "אחר הצהריים טובים!",
+    "ערב טוב!"
+  ],
+  "ku": [
+    "Beyanî baş!",
+    "Paş nîvro!",
+    "Êvar baş!"
+  ],
+  "is": [
+    "Góðan daginn!",
+    "Góðan daginn!",
+    "Gott kvöld!"
+  ],
+  "ja": [
+    "おはよう！",
+    "こんにちは！",
+    "こんばんは！"
+  ],
+  "ky": [
+    "Кайырдуу таң!",
+    "Кайырдуу күн!",
+    "Кайырдуу кеч!"
+  ],
+  "km": [
+    "អរុណ​សួស្តី!",
+    "អរុណសួស្តី!",
+    "រាត្រីសួស្តី!"
+  ],
+  "ko": [
+    "좋은 아침이에요!",
+    "좋은 오후에요!",
+    "좋은 저녁이에요!"
+  ],
+  "kk": [
+    "Қайырлы таң!",
+    "Қайырлы күн!",
+    "Қайырлы кеш!"
+  ],
+  "lo": [
+    "ສະ​ບາຍ​ດີ​ຕອນ​ເຊົ້າ!",
+    "ສະ​ບາຍ​ດີ​ຕອນ​ສວາຍ!",
+    "ສະ​ບາຍ​ດີ​ຕອນ​ແລງ!"
+  ],
+  "si": [
+    "සුභ උදෑසනක්!",
+    "සුභ සන්ධ්යාවක්!",
+    "සුභ සන්ද්යාවක්!"
+  ],
+  "ta": [
+    "காலை வணக்கம்!",
+    "மதிய வணக்கம்!",
+    "மாலை வணக்கம்!"
+  ],
+  "st": [
+    "Khotsong!",
+    "Lumelang!",
+    "Lumelang!"
+  ],
+  "lt": [
+    "Labas rytas!",
+    "Laba diena!",
+    "Labas vakaras!"
+  ],
+  "lb": [
+    "Gudde Moien!",
+    "Gudde Mëtteg!",
+    "Gudden Owend!"
+  ],
+  "lv": [
+    "Labrīt!",
+    "Labdien!",
+    "Labvakar!"
+  ],
+  "ro": [
+    "Buna dimineata!",
+    "Bună ziua!",
+    "Bună seara!"
+  ],
+  "mg": [
+    "Salama!",
+    "Salama!",
+    "Salama!"
+  ],
+  "mk": [
+    "Добро утро!",
+    "Добар ден!",
+    "Добро попладне!"
+  ],
+  "my": [
+    "မင်္ဂလာနံနက်ခင်းပါ!",
+    "မင်္ဂလာနေ့လည်ခင်းပါ!",
+    "မင်္ဂလာညနေခင်းပါ!"
+  ],
+  "mn": [
+    "Өглөөний мэнд!",
+    "Өдрийн мэнд!",
+    "Оройн мэнд!"
+  ],
+  "mt": [
+    "Bongu!",
+    "Il-waranofsinhar it-tajjeb!",
+    "Il-lejla t-tajba!"
+  ],
+  "dv": [
+    "ބާއްޖެވެރި ހެނދުނެއް!",
+    "ބާއްޖަވެރި މެންދުރުފަހެއް!",
+    "ބާއްޖަވެރި ހަވީރެއް!"
+  ],
+  "ny": [
+    "M'mawa wabwino!",
+    "Masana abwino!",
+    "Madzulo abwino!"
+  ],
+  "af": [
+    "Goeie more!",
+    "Goeie middag!",
+    "Goeienaand!"
+  ],
+  "mi": [
+    "Ata mārie!",
+    "Te ahiahi pai!",
+    "Te ahiahi pai!"
+  ],
+  "pl": [
+    "Dzień dobry!",
+    "Dzień dobry!",
+    "Dobry wieczór!"
+  ],
+  "rw": [
+    "Mwaramutse!",
+    "Mwaramutse!",
+    "Mwiriwe!"
+  ],
+  "sl": [
+    "Dobro jutro!",
+    "Dober večer!",
+    "Dober večer!"
+  ],
+  "sk": [
+    "Dobré ráno!",
+    "Dobrý deň!",
+    "Dobrý večer!"
+  ],
+  "so": [
+    "Subax wanaagsan!",
+    "Galab wanaagsan!",
+    "Fiid wanaagsan!"
+  ],
+  "th": [
+    "สวัสดีตอนเช้า!",
+    "สวัสดีตอนบ่าย!",
+    "สวัสดีตอนเย็น!"
+  ],
+  "tg": [
+    "Субҳ ба хайр!",
+    "Нимирӯзи ба хайр!",
+    "Шаб ба хайр!"
+  ],
+  "uk": [
+    "Добрий ранок!",
+    "Добрий день!",
+    "Добрий вечір!"
+  ],
+  "uz": [
+    "Xayrli tong!",
+    "Hayrli kun!",
+    "Hayrli kech!"
+  ],
+  "la": [
+    "Bonum mane!",
+    "Bona dies!",
+    "Bonum vesperam!"
+  ],
+  "vi": [
+    "Chào buổi sáng!",
+    "Chào buổi chiều!",
+    "Buổi tối vui vẻ!"
+  ],
+  "ts": [
+    "Mixo lowunene!",
+    "Nhlikanhi lowunene!",
+    "Riperile!"
+  ],
+  "xh": [
+    "Mholo ngalentsasa!",
+    "Mholo emvakwemini!",
+    "Mholo ngokuhlwa nje!"
+  ],
+  "zu": [
+    "Sawubona!",
+    "Sawubona!",
+    "Sawubona!"
+  ],
+  "sn": [
+    "Mangwanani akanaka!",
+    "Masikati akanaka!",
+    "Manheru akanaka!"
+  ],
+  "sr": [
+    "Добро јутро!",
+    "Добар дан!",
+    "Добро вече!"
+  ],
+  "ga": [
+    "Maidin mhaith!",
+    "Tráthnóna maith!",
+    "Tráthnóna maith!"
+  ],
+  "ne": [
+    "शुभ - प्रभात!",
+    "शुभ दिउँसो!",
+    "शुभ सन्ध्या!"
+  ]
+}
